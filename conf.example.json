@@ -1,1 +1,13 @@
-{"host": "0.0.0.0", "port": 51232, "password": "", "mail_server": "smtp.qq.com", "mail_username": "test@qq.com", "mail_password": "", "mail_port": 465, "mail_use_ssl": true, "mail_use_tls": false}
+{
+  "host": "0.0.0.0",
+  "port": 51232,
+  "password": "",
+  "mail_server": "smtp.qq.com",
+  "mail_username": "test@qq.com",
+  "mail_password": "",
+  "mail_sender_name": "",
+  "mail_sender_addr": "",
+  "mail_port": 465,
+  "mail_use_ssl": true,
+  "mail_use_tls": false
+}
